@@ -1,4 +1,4 @@
-# Student-Assessment (University Assignment) 
+# Student Assessment System (University Assignment) 
 # Student-Assessment
 ## Screenshots
 
